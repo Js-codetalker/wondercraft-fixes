@@ -84,6 +84,10 @@ html[xmlns] .clearfix {
 .weight-100 {
     font-weight: 100
 }
+.flex-center {
+	display: flex;
+	justify-content: center;
+}
 .spacer-0 {
     width: 100%;
     clear: both;
